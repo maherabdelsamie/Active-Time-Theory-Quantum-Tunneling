@@ -161,6 +161,14 @@ The generative capacity of time, evident in the spontaneous fluctuations within 
 
 The simulation outcomes thus resonate with the conceptual underpinnings of the active time hypothesis. They suggest that time, far from being an inert dimension, is actively involved in the fabric of quantum phenomena. These findings encourage a reexamination of the principles governing quantum mechanics and open a dialogue on the fundamental nature of time itself. The active time hypothesis, as supported by our simulation data, offers a novel and potentially transformative perspective on the temporal architecture of the quantum realm.
 
+## Further Validation using Quantum Simulations
+
+A study by Abdelsamie titled "[The Active Time Hypothesis: Unveiling Temporal Dynamics in Quantum Entanglement](https://github.com/maherabdelsamie/Active-Time-Hypothesis2)" constructs computational models to examine signatures of time’s active faculties in quantum contexts. Employing discrete encodings of the generative, directive and adaptive properties proposed by ATH, this work simulates a two-qutrit quantum system with and without temporal agency. 
+
+The outputs reveal increased entanglement entropy, uncertainty and complexity emerging from time’s simulated capacities to spontaneously perturb systems and reinforce resonant dynamics. This aligns with ATH’s suggestion that time’s inherent creativity seeds not just cosmological emergence, but also distinctly quantum phenomena.
+
+By substantiating measurable impacts of ascribing generative and instructive abilities to time even in microscopic quantum systems, this research further cements ATH’s viability as a foundational premise. The demonstration of quantum entanglement itself arising from basic algorithmic translations of time’s hypothetical properties encourages deeper interrogation of temporal dynamics’ role across scales of reality.
+
 ---
 
 # Installation
