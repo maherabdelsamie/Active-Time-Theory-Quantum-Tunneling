@@ -1,5 +1,7 @@
 # Simulation of Quantum Tunneling Dynamics Validates Signatures of Active Time
 
+Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
+
 ## 1. Introduction
 
 In the annals of physics, time has traditionally been depicted as a passive continuum, a mere backdrop against which the universe's intricate dance unfolds. Classical mechanics, epitomized by Newton's laws, treated time as a uniform, absolute flow, impervious to the dynamism it chronicles. This perception permeated into the quantum realm, where time continued to play a secondary role to spatial variables and quantum states. Even in the realms of Einstein's relativity, time, while interwoven with the fabric of space, remained a stage rather than an actor, responsive to mass-energy but devoid of autonomous agency.
