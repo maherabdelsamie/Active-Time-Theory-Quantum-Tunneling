@@ -160,3 +160,36 @@ Wavefunction tunneling serves as an excellent candidate for testing the veracity
 The generative capacity of time, evident in the spontaneous fluctuations within the tunneling process, suggests a fundamental randomness in quantum events that is aligned with the active time theory. The directive faculty is reflected in the non-random distribution of these fluctuations, suggesting that time may preferentially enhance or suppress tunneling probabilities in a manner that could be akin to a selection process. Lastly, the adaptive nature of time is implied by the variation in the tunneling rate's responsiveness over different periods, indicative of an ability to modulate quantum dynamics contextually.
 
 The simulation outcomes thus resonate with the conceptual underpinnings of the active time hypothesis. They suggest that time, far from being an inert dimension, is actively involved in the fabric of quantum phenomena. These findings encourage a reexamination of the principles governing quantum mechanics and open a dialogue on the fundamental nature of time itself. The active time hypothesis, as supported by our simulation data, offers a novel and potentially transformative perspective on the temporal architecture of the quantum realm.
+
+---
+
+# Installation
+The simulation is implemented in Python and requires the following libraries:
+- numpy
+- matplotlib
+
+You can install these libraries using pip:
+
+```bash
+pip install numpy
+pip install matplotlib
+```
+
+### Usage
+Run the simulation by executing the `main.py` file. You can modify the parameters of the simulation by editing the `main.py` file.
+
+```
+python main.py
+```
+## Run on Google Colab
+
+You can run this notebook on Google Colab by clicking on the following badge:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UdWWniaIjl3j4p72xHgubyzq3BzVq6nb?usp=sharing)
+
+## License
+This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. - see the LICENSE.md file for details.
+
+## Citing This Work
+
+If you use this software, please cite it using the information provided in the `CITATION.cff` file available in this repository.
