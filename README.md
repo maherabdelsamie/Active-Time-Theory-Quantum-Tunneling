@@ -145,7 +145,7 @@ In stark contrast, the control simulations, which do not include active time eff
 
 The visual comparison of the tunneling rates over time provides a compelling narrative: active time does not merely add nuance to the quantum mechanical processes but potentially redefines them. The implications of these findings extend beyond academic curiosity, suggesting a fundamental reevaluation of time's role in quantum systems and possibly opening new pathways to experimental and theoretical advancements in our understanding of quantum mechanics.
 
-![download](https://github.com/maherabdelsamie/Active-Time-Theory2/assets/73538221/f2b3a40a-37e4-414f-b330-1058aeeeaa4c)
+![download](https://github.com/maherabdelsamie/Active-Time-Theory-Quantum-Tunneling/assets/73538221/9d3566bf-89cf-47c7-9f3d-7028593a8e12)
 
 
 ## 5. Linking Quantum Tunneling to Active Time Theory
