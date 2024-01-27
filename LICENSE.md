@@ -1,6 +1,6 @@
 License
 =======
-Copyright (c) 2023 YMEGY RESEARCH AND DEVELOPMENT LLC
+Copyright (c) 2024 YMEGY RESEARCH AND DEVELOPMENT LLC
 
 This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
@@ -443,7 +443,7 @@ Creative Commons may be contacted at creativecommons.org.
 
 NumPy License
 -------------
-Copyright (c) 2005-2023, NumPy Developers.
+Copyright (c) 2005-2024, NumPy Developers.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -473,7 +473,6 @@ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
 
 Matplotlib License
 -----------------
